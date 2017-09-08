@@ -25,7 +25,7 @@ const eggFinder = (req, res, next) => {
 
 app.use(eggFinder);
 
-// app.use(express.static('public'));
+app.use('/images', express.static('images'));
 
 app.get('/home', (req, res) => {
   res.sendFile('./html/home.html', sendFileOpts);
