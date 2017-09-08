@@ -1,6 +1,4 @@
 module.exports = `
-You found the Easter Egg at Mon Sep 12 2016 15:36:57 GMT-0500 (CDT)
-
         ,ggadddd8888888bbbbaaa,_
      ,ad888,      \`Y88,      \`Y888baa,
    ,dP"  "Y8b,      \`"Y8b,      \`"Y8888ba,
